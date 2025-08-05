@@ -1,4 +1,4 @@
-# Angry Bird Clone 🐦💥
+# Angry Bird Clone 
 
 Bu iOS oyun projesi, klasik Angry Birds oyunundan esinlenerek geliştirilen basit bir klondur. Oyuncu, ekrandaki kuş karakterini fırlatarak hedefleri vurmaya çalışır. Oyun, SpriteKit fizik motoru kullanılarak oluşturulmuştur.
 
